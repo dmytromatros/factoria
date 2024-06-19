@@ -1,6 +1,4 @@
 import google.generativeai as genai
-import textwrap
-from IPython.display import Markdown
 
 genai.configure(api_key="AIzaSyAJFUHLcfT1_lzPSv8A5jy6vthRBvAIbU0")
 
